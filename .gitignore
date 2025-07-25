@@ -1,1 +1,11 @@
 **/.env
+/dist
+**/build/
+/cert
+sdkconfig.old
+sdkconfig
+.vscode
+dependencies.lock
+managed_components/
+/esp-discord
+**/config
